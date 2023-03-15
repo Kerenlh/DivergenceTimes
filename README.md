@@ -1,3 +1,3 @@
 # DivergenceTimes
-Code for Methods 1, 2a, 2b and 3 described in the paper:
-Dating species divergence by estimating Poisson rates from parity samples, Keren Levinstein Hallak and Saharon Rosset.
+Code for Methods 1, 2 and 3 described in the paper:
+Dating ancient humans splits by estimating Poisson rates from mitochondrial DNA parity samples, Keren Levinstein Hallak and Saharon Rosset.
