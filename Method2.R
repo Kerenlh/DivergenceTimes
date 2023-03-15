@@ -8,7 +8,7 @@
 # The transition rates are estimated solely based on xs and then 
 # the distance is estimated as if the transition rates are known, so only zs is considered.
 # An additional assumption is that the number of transitions between the two sequences denoted as
-# ys has binomial distribution so that y_i|x_i ~ Bin(x_i,p). 
+# ys has a binomial distribution so that y_i|x_i ~ Bin(x_i,p). 
 # The index i represents a specific site, and p is the distance between the sequences.
 #
 # Input variables:
